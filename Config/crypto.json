@@ -8,6 +8,6 @@
     "cipher": {
         "method": "aes256",
         "encoding": "base64",
-        "key": "$CIPHER_KEY="
+        "key": "$CIPHER_KEY"
     }
 }
